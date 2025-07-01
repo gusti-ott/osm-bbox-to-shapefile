@@ -1,6 +1,10 @@
+This small cross-language tool allows you to extract road data from OpenStreetMap for any rectangular area by specifying its bounding box. The road network is downloaded using a Python script (via the Overpass API) and saved as a shapefile, which can then be used in MATLAB or any GIS software. This is especially useful when working in MATLAB but needing precise geospatial data from OSM in a reproducible way.
+
 # Bounding Box to OSM Shapefile (Windows)
 
 This module downloads OpenStreetMap (OSM) road data for a given bounding box using Python and saves it as a shapefile, which can then be used in MATLAB.
+
+...
 
 ## 1. Python Setup & Usage (Windows only)
 
