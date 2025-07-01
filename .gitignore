@@ -1,0 +1,8 @@
+# Ignore virtual environment and cache
+venv/
+__pycache__/
+/roads.cpg
+/roads.dbf
+/roads.prj
+/roads.shp
+/roads.shx
